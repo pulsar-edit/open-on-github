@@ -23,22 +23,7 @@
   },
   "devDependencies": {
     "fs-plus": "^3.0.1",
-    "standard": "^10.0.3",
     "temp": "^0.8.3"
-  },
-  "scripts": {
-    "lint": "standard"
-  },
-  "standard": {
-    "env": [
-      "browser",
-      "node",
-      "atomtest",
-      "jasmine"
-    ],
-    "globals": [
-      "atom"
-    ]
   },
   "configSchema": {
     "includeLineNumbersInUrls": {
