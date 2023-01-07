@@ -1,3 +1,5 @@
+# This repo is Archived under Pulsar-Edit. As it's now Bunlded into the Core Editor [PR#314](https://github.com/pulsar-edit/pulsar/pull/314)
+
 # Open on GitHub package
 
 Provides commands to quickly view the current file on GitHub.com (The Website).
